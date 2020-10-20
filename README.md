@@ -11,7 +11,7 @@ Invitation link - https://discord.gg/XCUja4Q
 # Code of Conduct (CoC) & Rules   
 By joining this server you accept to abide to the following Rules and Code of Conduct
 
-1. Respectful and civil behavior is always a must, remember the person behind the screen. 
+1. Respectful and civil behavior is always a must, remember the person behind the screen.     
 Doxing, stalking, threats and aggressive or abusive behavior towards an individual or group is not allowed!    
 
 2. There is a zero tolerance for racism, sexism, homophobia etc. or any kind of discrimination in general! 

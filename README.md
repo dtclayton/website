@@ -12,9 +12,9 @@ Invitation link - https://discord.gg/XCUja4Q
 By joining this server you accept to abide to the following Rules and Code of Conduct
 
 1. Respectful and civil behavior is always a must, remember the person behind the screen. 
-Doxing, stalking, threats and aggressive or abusive behavior towards an individual or group is not allowed! 
- 
-2.There is a zero tolerance for racism, sexism, homophobia etc. or any kind of discrimination in general! 
+Doxing, stalking, threats and aggressive or abusive behavior towards an individual or group is not allowed!    
+
+2. There is a zero tolerance for racism, sexism, homophobia etc. or any kind of discrimination in general! 
  
 3. NSFW content is only allowed in #random-off-topic-💩. 
 If you are unsure if it is suitable, do not share it! 
@@ -22,7 +22,7 @@ This also includes profile pictures and nicknames.
  
 4. Use channels for their intended purpose and do not spam. 
  
-5. Do not misuse tags. 
+5. Do not misuse tags.     
 Only tag admins or moderators for emergencies and please respect them, they are using their spare time to improve and moderate. 
  
 6. No illegal activities or requests for illegal products or services. 
@@ -35,7 +35,7 @@ Only tag admins or moderators for emergencies and please respect them, they are 
  
 10. Obey the Discord Terms of Service. 
 
-Violating these rules will result in warnings.
-Continued violations will result in being muted, kicked or banned (ban evasion is not allowed).
-
+Violating these rules will result in a public warning.     
+Continued violations will result in being muted, kicked or banned (ban evasion is not allowed).     
+      
 Any changes made to the Rules and CoC by the Community Board will be announced in #announcements-📢

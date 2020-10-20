@@ -6,7 +6,7 @@ VSec is meant to be a community for the community by the community, therefor all
 # Join our discord server
 Feel free to join our Discord server and remember to check out the #events channel for new local 
 
-Invitation link - https://discord.gg/XCUja4Q
+Invitation link - [https://discord.gg/XCUja4Q](https://discord.gg/XCUja4Q)
 
 # Code of Conduct (CoC) & Rules   
 By joining this server you accept to abide to the following Rules and Code of Conduct

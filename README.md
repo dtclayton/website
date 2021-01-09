@@ -49,3 +49,13 @@ You can also make a pull request directly from Github to this page as proof.
 Work: Security Specialist @ Jyske Bank  
 [https://www.linkedin.com/in/kristianbodeholt](https://www.linkedin.com/in/kristianbodeholt)  
 [https://twitter.com/bodeholt](https://twitter.com/bodeholt)  
+
+## Klaus Agnoletti
+Work: Senior Security Architect @ nemlig.com  
+[https://www.linkedin.com/in/agnoletti/](https://www.linkedin.com/in/agnoletti/)  
+[https://twitter.com/klausagnoletti](https://twitter.com/klausagnoletti)  
+
+## Jørgen Skov Rasmussen (infosec_blue)
+Work: Security Specialist @ nemlig.com  
+[https://www.linkedin.com/in/jørgen-skov-rasmussen-31243230/](https://www.linkedin.com/in/jørgen-skov-rasmussen-31243230/)  
+[https://twitter.com/Infosec_blue](https://twitter.com/Infosec_blue)  

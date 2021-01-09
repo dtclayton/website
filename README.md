@@ -66,6 +66,6 @@ Work: Senior Security Analyst @ Conscia
 [https://twitter.com/PertoDK](https://twitter.com/PertoDK)  
 
 ## Michael Pedersen (Kalle)
-Work: Cyber Security Analyst @ JN Data
+Work: Cyber Security Analyst @ JN Data  
 [https://www.linkedin.com/in/mipe85/](https://www.linkedin.com/in/mipe85/)  
 [https://twitter.com/mipe0x55](https://twitter.com/mipe0x55)  

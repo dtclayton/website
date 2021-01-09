@@ -59,3 +59,13 @@ Work: Senior Security Architect @ nemlig.com
 Work: Security Analyst @ nemlig.com  
 [https://www.linkedin.com/in/jørgen-skov-rasmussen-31243230/](https://www.linkedin.com/in/jørgen-skov-rasmussen-31243230/)  
 [https://twitter.com/Infosec_blue](https://twitter.com/Infosec_blue)  
+
+## Dennis Perto (LaZyDK)
+Work: Senior Security Analyst @ Conscia  
+[https://www.linkedin.com/in/perto/](https://www.linkedin.com/in/perto/)  
+[https://twitter.com/PertoDK](https://twitter.com/PertoDK)  
+
+## Michael Pedersen (Kalle)
+Work: Cyber Security Analyst @ JN Data
+[https://www.linkedin.com/in/mipe85/](https://www.linkedin.com/in/mipe85/)  
+[https://twitter.com/mipe0x55](https://twitter.com/mipe0x55)  

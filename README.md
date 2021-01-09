@@ -56,6 +56,6 @@ Work: Senior Security Architect @ nemlig.com
 [https://twitter.com/klausagnoletti](https://twitter.com/klausagnoletti)  
 
 ## Jørgen Skov Rasmussen (infosec_blue)
-Work: Security Specialist @ nemlig.com  
+Work: Security Analyst @ nemlig.com  
 [https://www.linkedin.com/in/jørgen-skov-rasmussen-31243230/](https://www.linkedin.com/in/jørgen-skov-rasmussen-31243230/)  
 [https://twitter.com/Infosec_blue](https://twitter.com/Infosec_blue)  

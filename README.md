@@ -69,3 +69,8 @@ Work: Senior Security Analyst @ Conscia
 Work: Cyber Security Analyst @ JN Data  
 [https://www.linkedin.com/in/mipe85/](https://www.linkedin.com/in/mipe85/)  
 [https://twitter.com/mipe0x55](https://twitter.com/mipe0x55)  
+
+## Andrada Son (Andrada)
+Work: IT Security - Search Manager @ Cyber Security Agency  
+[https://www.linkedin.com/in/sa-cybersecurityagency/](https://www.linkedin.com/in/sa-cybersecurityagency/)  
+[https://twitter.com/SonAndrada](https://twitter.com/SonAndrada)  

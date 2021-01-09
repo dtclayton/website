@@ -39,3 +39,13 @@ Violating these rules will result in a public warning.
 Continued violations will result in being muted, kicked or banned (ban evasion is not allowed).     
       
 Any changes made to the Rules and CoC by the Community Board will be announced in #announcements-📢
+
+# Verified Vikings
+Want to become verified and get access to the closed channels?
+Send a proof containing your handle/nickname, name and current workplace to one of the moderators from either your LinkedIn or Twitter profile.
+You can also make a pull request directly from Github to this page as proof.
+
+## Kristian Bodeholt (kbodeholt)   
+Work: Security Specialist @ Jyske Bank  
+https://www.linkedin.com/in/kristianbodeholt/   
+https://twitter.com/bodeholt   

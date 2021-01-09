@@ -47,5 +47,5 @@ You can also make a pull request directly from Github to this page as proof.
 
 ## Kristian Bodeholt (kbodeholt)   
 Work: Security Specialist @ Jyske Bank  
-https://www.linkedin.com/in/kristianbodeholt/   
-https://twitter.com/bodeholt   
+[https://www.linkedin.com/in/kristianbodeholt](https://www.linkedin.com/in/kristianbodeholt)
+[https://twitter.com/bodeholt](https://twitter.com/bodeholt)

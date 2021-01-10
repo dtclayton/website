@@ -157,7 +157,7 @@ Work: Sysadmin & Abuse @ team.blue Denmark
 PhD Student - Cyber Physical Systems and Security @ DTU  
 [https://www.linkedin.com/in/niklas-reusch-761721133/](https://www.linkedin.com/in/niklas-reusch-761721133/)  
 
-## Martin Boller (itisiboller) - Pending confirmation
+## Martin Boller (itisiboller)
 Cyber Security architect @ Systemically Important Financial Institution (SIFI)  
 [https://twitter.com/martinboller](https://twitter.com/martinboller)  
 [https://www.linkedin.com/in/martinboller/](https://www.linkedin.com/in/martinboller/)  

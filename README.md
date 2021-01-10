@@ -50,7 +50,7 @@ Work: Security Specialist @ Jyske Bank
 [https://www.linkedin.com/in/kristianbodeholt](https://www.linkedin.com/in/kristianbodeholt)  
 [https://twitter.com/bodeholt](https://twitter.com/bodeholt)  
 
-## Klaus Agnoletti
+## Klaus Agnoletti (Klaus Agnoletti)
 Work: Senior Security Architect @ nemlig.com  
 [https://www.linkedin.com/in/agnoletti/](https://www.linkedin.com/in/agnoletti/)  
 [https://twitter.com/klausagnoletti](https://twitter.com/klausagnoletti)  
@@ -74,3 +74,13 @@ Work: Cyber Security Analyst @ JN Data
 Work: IT Security - Search Manager @ Cyber Security Agency  
 [https://www.linkedin.com/in/sa-cybersecurityagency/](https://www.linkedin.com/in/sa-cybersecurityagency/)  
 [https://twitter.com/SonAndrada](https://twitter.com/SonAndrada)  
+
+## Aslak Ransby (Aslak)
+Work: Cyber Security Specialist @ Eagle Shark Cyber Defence  
+[https://www.linkedin.com/in/aslak-ransby-b3a70a175/](https://www.linkedin.com/in/aslak-ransby-b3a70a175/)  
+[https://twitter.com/aslakransby](https://twitter.com/aslakransby)  
+
+## Dennis Kjær Jensen (SiGNOUT)
+Work: IT Security - Search Manager @ Cyber Security Agency  
+[https://www.linkedin.com/in/signout/](https://www.linkedin.com/in/signout/)  
+[https://twitter.com/signoutdk](https://twitter.com/signoutdk)  

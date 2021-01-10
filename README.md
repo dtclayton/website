@@ -102,7 +102,11 @@ Work: Technical Specialist - Security @ Maersk
 Work: CEO @ Value Security  
 [https://www.linkedin.com/in/martingohs/](https://www.linkedin.com/in/martingohs/)  
 
-## Dennis Christiansen
+## Dennis Lund Christiansen
 Consultant - risk advisory @ Deloitte Danmark  
 [https://www.linkedin.com/in/dennis-christiansen-a20ba816b/](https://www.linkedin.com/in/dennis-christiansen-a20ba816b/)   
 [https://twitter.com/DennisLundChri1](https://twitter.com/DennisLundChri1)
+
+## Jesper Hestkjær
+Software Engineering Student  
+[https://www.linkedin.com/in/hestkjaer/](https://www.linkedin.com/in/hestkjaer/)   

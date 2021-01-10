@@ -134,3 +134,8 @@ IT Specialist @ Jyske Bank
 IT Security Student  
 [https://www.linkedin.com/in/christian-m-614701166/](https://www.linkedin.com/in/christian-m-614701166/)  
 
+# Tobias Dalå (oxnan)
+Security Analyst @ Dubex  
+[https://www.linkedin.com/in/tobiasdalaa/](https://www.linkedin.com/in/tobiasdalaa/)  
+[https://twitter.com/Tobias_dala](https://twitter.com/Tobias_dala)  
+

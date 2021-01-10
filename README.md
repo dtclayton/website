@@ -97,3 +97,7 @@ Work: Security Specialist @ TDC
 Work: Technical Specialist - Security @ Maersk  
 [https://linkedin.com/in/flemmingjacobsen/](https://linkedin.com/in/flemmingjacobsen/)  
 [https://twitter.com/batmule_dk](https://twitter.com/batmule_dk)  
+
+## Martin Gohs (Martin-BSidesKbh)
+Work: CEO @ Value Security  
+[https://www.linkedin.com/in/martingohs/](https://www.linkedin.com/in/martingohs/)  

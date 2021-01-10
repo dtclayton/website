@@ -176,6 +176,6 @@ Senior Software Developer @ Jyske Bank
 [https://www.linkedin.com/in/niklashansen/](https://www.linkedin.com/in/niklashansen/)  
 
 ## Ian Qvist (Genbox)
-CTO @ Agile Response Technologies  
+Principal consultant and incident response techlead @ CSIS
 [https://twitter.com/IanQvist](https://twitter.com/IanQvist)  
 [https://www.linkedin.com/in/ian-qvist-55a664143/](https://www.linkedin.com/in/ian-qvist-55a664143/)  

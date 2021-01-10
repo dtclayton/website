@@ -152,3 +152,7 @@ Work: Cyber Security Analyst @ TDC Group
 Work: Sysadmin & Abuse @ team.blue Denmark  
 [https://linkedin.com/in/emilstahl](https://linkedin.com/in/emilstahl)   
 [https://twitter.com/emilstahl](https://twitter.com/emilstahl)  
+
+## Niklas Reusch (Bawstaws)
+PhD Student - Cyber Physical Systems and Security @ DTU  
+[https://www.linkedin.com/in/niklas-reusch-761721133/](https://www.linkedin.com/in/niklas-reusch-761721133/)  

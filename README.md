@@ -119,3 +119,7 @@ IT Security Analyst - Energinet
 Security Consultant @ CSIS Security Group  
 [https://www.linkedin.com/in/søren-fritzbøger-a38433107/](https://www.linkedin.com/in/søren-fritzbøger-a38433107/)  
 [https://twitter.com/fritzboger](https://twitter.com/fritzboger)  
+
+## Christopher Buch (Christopher)
+[https://www.linkedin.com/in/christopher-buch-61709a8a/](https://www.linkedin.com/in/christopher-buch-61709a8a/)  
+[https://twitter.com/cerb20](https://twitter.com/cerb20)  

@@ -147,3 +147,8 @@ Work: OT Cyber Security Specialist @ Siemens Gamesa
 Work: Cyber Security Analyst @ TDC Group  
 [https://twitter.com/dennisrand](https://twitter.com/dennisrand)  
 [https://www.linkedin.com/in/dennisrand/](https://www.linkedin.com/in/dennisrand/)  
+
+## Emil Stahl (emilstahl)
+Work: Sysadmin & Abuse @ team.blue Denmark  
+[https://linkedin.com/in/emilstahl](https://linkedin.com/in/emilstahl)   
+[https://twitter.com/emilstahl](https://twitter.com/emilstahl)  

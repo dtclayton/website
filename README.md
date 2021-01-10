@@ -112,5 +112,5 @@ Software Engineering Student
 [https://www.linkedin.com/in/hestkjaer/](https://www.linkedin.com/in/hestkjaer/)   
 
 ## Lasse Seidler (L.T Seidler)
-IT Security Analyst - Energinet
+IT Security Analyst - Energinet  
 [https://www.linkedin.com/in/ltseidler/](https://www.linkedin.com/in/ltseidler/)   

@@ -167,6 +167,10 @@ IT-Engineer @ Bankdata
 [https://www.linkedin.com/in/kent-adel-rasmussen-87140182/](https://www.linkedin.com/in/kent-adel-rasmussen-87140182/)  
 
 ## Claus Cramon Houmann (Claus Houmann)
-Freelance Security Consultant  
+Cloud Security Coordinator @ European Commission
 [https://www.linkedin.com/in/claushoumann/](https://www.linkedin.com/in/claushoumann/)  
 [https://twitter.com/ClausHoumann](https://twitter.com/ClausHoumann)  
+
+## Niklas Hansen
+Senior Software Developer @ Jyske Bank  
+[https://www.linkedin.com/in/niklashansen/](https://www.linkedin.com/in/niklashansen/)  

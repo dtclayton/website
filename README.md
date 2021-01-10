@@ -156,3 +156,12 @@ Work: Sysadmin & Abuse @ team.blue Denmark
 ## Niklas Reusch (Bawstaws)
 PhD Student - Cyber Physical Systems and Security @ DTU  
 [https://www.linkedin.com/in/niklas-reusch-761721133/](https://www.linkedin.com/in/niklas-reusch-761721133/)  
+
+## Martin Boller
+Cyber Security architect @ Systemically Important Financial Institution (SIFI)  
+[https://twitter.com/martinboller](https://twitter.com/martinboller)  
+[https://www.linkedin.com/in/martinboller/](https://www.linkedin.com/in/martinboller/)  
+
+## Kent Adel Rasmussen (Stormvejr)
+IT-Engineer @ Bankdata  
+[https://www.linkedin.com/in/kent-adel-rasmussen-87140182/](https://www.linkedin.com/in/kent-adel-rasmussen-87140182/)  

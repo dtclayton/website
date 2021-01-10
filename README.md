@@ -121,5 +121,6 @@ Security Consultant @ CSIS Security Group
 [https://twitter.com/fritzboger](https://twitter.com/fritzboger)  
 
 ## Christopher Buch (Christopher)
+IT Security Student  
 [https://www.linkedin.com/in/christopher-buch-61709a8a/](https://www.linkedin.com/in/christopher-buch-61709a8a/)  
 [https://twitter.com/cerb20](https://twitter.com/cerb20)  

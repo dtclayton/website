@@ -134,16 +134,16 @@ Work: IT Specialist @ Jyske Bank
 IT Security Student  
 [https://www.linkedin.com/in/christian-m-614701166/](https://www.linkedin.com/in/christian-m-614701166/)  
 
-# Tobias Dalå (oxnan)
+## Tobias Dalå (oxnan)
 Work: Security Analyst @ Dubex  
 [https://www.linkedin.com/in/tobiasdalaa/](https://www.linkedin.com/in/tobiasdalaa/)  
 [https://twitter.com/Tobias_dala](https://twitter.com/Tobias_dala)  
 
-# Ismail Botan (i.botan)
+## Ismail Botan (i.botan)
 Work: OT Cyber Security Specialist @ Siemens Gamesa  
 [https://www.linkedin.com/in/ismail-botan-86ab9669](https://www.linkedin.com/in/ismail-botan-86ab9669)  
 
-# Dennis Rand (Dennis Rand)
+## Dennis Rand (Dennis Rand)
 Work: Cyber Security Analyst @ TDC Group  
 [https://twitter.com/dennisrand](https://twitter.com/dennisrand)  
 [https://www.linkedin.com/in/dennisrand/](https://www.linkedin.com/in/dennisrand/)  

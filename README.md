@@ -165,3 +165,8 @@ Cyber Security architect @ Systemically Important Financial Institution (SIFI)
 ## Kent Adel Rasmussen (Stormvejr)
 IT-Engineer @ Bankdata  
 [https://www.linkedin.com/in/kent-adel-rasmussen-87140182/](https://www.linkedin.com/in/kent-adel-rasmussen-87140182/)  
+
+## Claus Cramon Houmann (Claus Houmann)
+Freelance Security Consultant  
+[https://www.linkedin.com/in/claushoumann/](https://www.linkedin.com/in/claushoumann/)  
+[https://twitter.com/ClausHoumann](https://twitter.com/ClausHoumann)  

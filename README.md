@@ -129,3 +129,8 @@ IT Security Student
 IT Specialist @ Jyske Bank  
 [https://www.linkedin.com/in/lwhdk](https://www.linkedin.com/in/lwhdk)  
 [https://twitter.com/larswhammer](https://twitter.com/larswhammer)  
+
+## Christian Mølvadgaard (Arametra)
+IT Security Student  
+[https://www.linkedin.com/in/christian-m-614701166/](https://www.linkedin.com/in/christian-m-614701166/)  
+

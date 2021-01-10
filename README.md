@@ -90,7 +90,7 @@ Work: Lead Information Security Analyst @ Ørsted
 [https://www.linkedin.com/in/eitanlevi/](https://www.linkedin.com/in/eitanlevi/)  
 
 ## Jesper Kastoft Bertelsen (Jkb)
-Work: Security Specialist @ TDC  
+Work: Security Specialist @ TDC Group  
 [https://www.linkedin.com/in/jesper-kastoft-bertelsen-997707140/](https://www.linkedin.com/in/jesper-kastoft-bertelsen-997707140//)  
 
 ## Flemming Jacobsen (Batmule)
@@ -142,3 +142,8 @@ Work: Security Analyst @ Dubex
 # Ismail Botan (i.botan)
 Work: OT Cyber Security Specialist @ Siemens Gamesa  
 [https://www.linkedin.com/in/ismail-botan-86ab9669](https://www.linkedin.com/in/ismail-botan-86ab9669)  
+
+# Dennis Rand (Dennis Rand)
+Work: Cyber Security Analyst @ TDC Group  
+[https://twitter.com/dennisrand](hhttps://twitter.com/dennisrand)  
+[https://www.linkedin.com/in/dennisrand/](https://www.linkedin.com/in/dennisrand/)  

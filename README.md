@@ -117,4 +117,5 @@ IT Security Analyst - Energinet
 
 ## Søren Fritzbøger (Fritzboger)
 Security Consultant @ CSIS Security Group  
-[https://www.linkedin.com/in/søren-fritzbøger-a38433107/](https://www.linkedin.com/in/søren-fritzbøger-a38433107/)   
+[https://www.linkedin.com/in/søren-fritzbøger-a38433107/](https://www.linkedin.com/in/søren-fritzbøger-a38433107/)  
+[https://twitter.com/fritzboger](https://twitter.com/fritzboger)  

@@ -171,6 +171,11 @@ Cloud Security Coordinator @ European Commission
 [https://www.linkedin.com/in/claushoumann/](https://www.linkedin.com/in/claushoumann/)  
 [https://twitter.com/ClausHoumann](https://twitter.com/ClausHoumann)  
 
-## Niklas Hansen
+## Niklas Hansen (NinjaDK)
 Senior Software Developer @ Jyske Bank  
 [https://www.linkedin.com/in/niklashansen/](https://www.linkedin.com/in/niklashansen/)  
+
+## Ian Qvist (Genbox)
+CTO @ Agile Response Technologies  
+[https://twitter.com/IanQvist](https://twitter.com/IanQvist)  
+[https://www.linkedin.com/in/ian-qvist-55a664143/](https://www.linkedin.com/in/ian-qvist-55a664143/)  

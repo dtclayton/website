@@ -188,3 +188,8 @@ Software Engineering Student
 ## Victor Buch-Hansen (Viggo)
 High school student @ HTX Sukkertoppen  
 [https://twitter.com/viggo_gaming](https://twitter.com/viggo_gaming)  
+
+## Morten Lond
+IT Security Specialist @ Jyske Bank  
+[https://twitter.com/MortenLond](https://twitter.com/MortenLond)  
+[https://www.linkedin.com/in/mortenlond/](https://www.linkedin.com/in/mortenlond/)  

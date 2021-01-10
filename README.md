@@ -114,3 +114,7 @@ Software Engineering Student
 ## Lasse Seidler (L.T Seidler)
 IT Security Analyst - Energinet  
 [https://www.linkedin.com/in/ltseidler/](https://www.linkedin.com/in/ltseidler/)   
+
+## Søren Fritzbøger (Fritzboger)
+Security Consultant @ CSIS Security Group  
+[https://www.linkedin.com/in/søren-fritzbøger-a38433107/](https://www.linkedin.com/in/søren-fritzbøger-a38433107/)   

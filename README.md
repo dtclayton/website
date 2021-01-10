@@ -101,3 +101,8 @@ Work: Technical Specialist - Security @ Maersk
 ## Martin Gohs (Martin-BSidesKbh)
 Work: CEO @ Value Security  
 [https://www.linkedin.com/in/martingohs/](https://www.linkedin.com/in/martingohs/)  
+
+## Dennis Christiansen
+Consultant - risk advisory @ Deloitte Danmark  
+[https://www.linkedin.com/in/dennis-christiansen-a20ba816b/](https://www.linkedin.com/in/dennis-christiansen-a20ba816b/)   
+[https://twitter.com/DennisLundChri1](https://twitter.com/DennisLundChri1)

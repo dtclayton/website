@@ -112,5 +112,5 @@ Software Engineering Student
 [https://www.linkedin.com/in/hestkjaer/](https://www.linkedin.com/in/hestkjaer/)   
 
 ## Lasse Seidler (L.T Seidler)
-Consultant @ Deloitte Danmark  
+IT Security Analyst - Energinet
 [https://www.linkedin.com/in/ltseidler/](https://www.linkedin.com/in/ltseidler/)   

@@ -92,3 +92,8 @@ Work: Lead Information Security Analyst @ Ørsted
 ## Jesper Kastoft Bertelsen (Jkb)
 Work: Security Specialist @ TDC  
 [https://www.linkedin.com/in/jesper-kastoft-bertelsen-997707140/](https://www.linkedin.com/in/jesper-kastoft-bertelsen-997707140//)  
+
+## Flemming Jacobsen (Batmule)
+Work: Technical Specialist - Security @ Maersk  
+[https://linkedin.com/in/flemmingjacobsen/](https://linkedin.com/in/flemmingjacobsen/)  
+[https://twitter.com/batmule_dk](https://twitter.com/batmule_dk)  

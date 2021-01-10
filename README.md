@@ -103,20 +103,20 @@ Work: CEO @ Value Security
 [https://www.linkedin.com/in/martingohs/](https://www.linkedin.com/in/martingohs/)  
 
 ## Dennis Lund Christiansen (DennisLund)
-Consultant - risk advisory @ Deloitte Danmark  
+Work: Consultant - risk advisory @ Deloitte Danmark  
 [https://www.linkedin.com/in/dennis-christiansen-a20ba816b/](https://www.linkedin.com/in/dennis-christiansen-a20ba816b/)   
 [https://twitter.com/DennisLundChri1](https://twitter.com/DennisLundChri1)
 
 ## Jesper Hestkjær (Stygg)
-Software Engineering Student  
+Work: Software Engineering Student  
 [https://www.linkedin.com/in/hestkjaer/](https://www.linkedin.com/in/hestkjaer/)   
 
 ## Lasse Seidler (L.T Seidler)
-IT Security Analyst - Energinet  
+Work: IT Security Analyst - Energinet  
 [https://www.linkedin.com/in/ltseidler/](https://www.linkedin.com/in/ltseidler/)   
 
 ## Søren Fritzbøger (Fritzboger)
-Security Consultant @ CSIS Security Group  
+Work: Security Consultant @ CSIS Security Group  
 [https://www.linkedin.com/in/søren-fritzbøger-a38433107/](https://www.linkedin.com/in/søren-fritzbøger-a38433107/)  
 [https://twitter.com/fritzboger](https://twitter.com/fritzboger)  
 
@@ -126,7 +126,7 @@ IT Security Student
 [https://twitter.com/cerb20](https://twitter.com/cerb20)  
 
 ## Lars Würtz Hammer (lwhdk)
-IT Specialist @ Jyske Bank  
+Work: IT Specialist @ Jyske Bank  
 [https://www.linkedin.com/in/lwhdk](https://www.linkedin.com/in/lwhdk)  
 [https://twitter.com/larswhammer](https://twitter.com/larswhammer)  
 
@@ -135,10 +135,10 @@ IT Security Student
 [https://www.linkedin.com/in/christian-m-614701166/](https://www.linkedin.com/in/christian-m-614701166/)  
 
 # Tobias Dalå (oxnan)
-Security Analyst @ Dubex  
+Work: Security Analyst @ Dubex  
 [https://www.linkedin.com/in/tobiasdalaa/](https://www.linkedin.com/in/tobiasdalaa/)  
 [https://twitter.com/Tobias_dala](https://twitter.com/Tobias_dala)  
 
 # Ismail Botan (i.botan)
-OT Cyber Security Specialist @ Siemens Gamesa  
+Work: OT Cyber Security Specialist @ Siemens Gamesa  
 [https://www.linkedin.com/in/ismail-botan-86ab9669](https://www.linkedin.com/in/ismail-botan-86ab9669)  

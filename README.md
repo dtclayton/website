@@ -81,6 +81,6 @@ Work: Cyber Security Specialist @ Eagle Shark Cyber Defence
 [https://twitter.com/aslakransby](https://twitter.com/aslakransby)  
 
 ## Dennis Kjær Jensen (SiGNOUT)
-Work: System administrator @ Sundhed.dk
+Work: System administrator @ Sundhed.dk  
 [https://www.linkedin.com/in/signout/](https://www.linkedin.com/in/signout/)  
 [https://twitter.com/signoutdk](https://twitter.com/signoutdk)  

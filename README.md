@@ -124,3 +124,8 @@ Security Consultant @ CSIS Security Group
 IT Security Student  
 [https://www.linkedin.com/in/christopher-buch-61709a8a/](https://www.linkedin.com/in/christopher-buch-61709a8a/)  
 [https://twitter.com/cerb20](https://twitter.com/cerb20)  
+
+## Lars Würtz Hammer (lwhdk)
+IT Specialist @ Jyske Bank  
+[https://www.linkedin.com/in/lwhdk](https://www.linkedin.com/in/lwhdk)  
+[https://twitter.com/larswhammer](https://twitter.com/larswhammer)  

@@ -84,3 +84,7 @@ Work: Cyber Security Specialist @ Eagle Shark Cyber Defence
 Work: System administrator @ Sundhed.dk  
 [https://www.linkedin.com/in/signout/](https://www.linkedin.com/in/signout/)  
 [https://twitter.com/signoutdk](https://twitter.com/signoutdk)  
+
+## Eitan Levi (elevi)
+Work: Lead Information Security Analyst @ Ørsted  
+[https://www.linkedin.com/in/eitanlevi/](https://www.linkedin.com/in/eitanlevi/)  

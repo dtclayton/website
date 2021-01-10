@@ -139,3 +139,6 @@ Security Analyst @ Dubex
 [https://www.linkedin.com/in/tobiasdalaa/](https://www.linkedin.com/in/tobiasdalaa/)  
 [https://twitter.com/Tobias_dala](https://twitter.com/Tobias_dala)  
 
+# Ismail Botan (i.botan)
+OT Cyber Security Specialist @ Siemens Gamesa  
+[https://www.linkedin.com/in/ismail-botan-86ab9669](https://www.linkedin.com/in/ismail-botan-86ab9669)  

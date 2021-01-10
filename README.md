@@ -145,5 +145,5 @@ Work: OT Cyber Security Specialist @ Siemens Gamesa
 
 # Dennis Rand (Dennis Rand)
 Work: Cyber Security Analyst @ TDC Group  
-[https://twitter.com/dennisrand](hhttps://twitter.com/dennisrand)  
+[https://twitter.com/dennisrand](https://twitter.com/dennisrand)  
 [https://www.linkedin.com/in/dennisrand/](https://www.linkedin.com/in/dennisrand/)  

@@ -210,3 +210,7 @@ Work: Sikkerhedsanalytiker @ NetDesign
 ## Thor Kristiansen (Shiv4x6c)
 Work: Founder @ CPH:SEC  
 [https://www.linkedin.com/in/thorkristiansen/](https://www.linkedin.com/in/thorkristiansen/)  
+
+## Pelle Jensen (Pelle Jensen)
+Work: Sikkerhedsanalytiker @ NetDesign  
+[https://www.linkedin.com/in/pelle-jensen-b170a850/](https://www.linkedin.com/in/pelle-jensen-b170a850/)  

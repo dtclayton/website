@@ -46,7 +46,7 @@ Send a proof containing your handle/nickname, name and current workplace to one 
 You can also make a pull request directly from Github to this page as proof.
 
 ## Kristian Bodeholt (kbodeholt)   
-Work: Security Specialist @ Jyske Bank  
+Work: Security Specialist @ Jyske Bank A/S   
 [https://www.linkedin.com/in/kristianbodeholt](https://www.linkedin.com/in/kristianbodeholt)  
 [https://twitter.com/bodeholt](https://twitter.com/bodeholt)  
 
@@ -126,7 +126,7 @@ IT Security Student
 [https://twitter.com/cerb20](https://twitter.com/cerb20)  
 
 ## Lars Würtz Hammer (lwhdk)
-Work: IT Specialist @ Jyske Bank  
+Work: IT Specialist @ Jyske Bank A/S  
 [https://www.linkedin.com/in/lwhdk](https://www.linkedin.com/in/lwhdk)  
 [https://twitter.com/larswhammer](https://twitter.com/larswhammer)  
 
@@ -135,7 +135,7 @@ IT Security Student
 [https://www.linkedin.com/in/christian-m-614701166/](https://www.linkedin.com/in/christian-m-614701166/)  
 
 ## Tobias Dalå (oxnan)
-Work: Security Analyst @ Dubex  
+Work: Security Analyst @ Dubex A/S  
 [https://www.linkedin.com/in/tobiasdalaa/](https://www.linkedin.com/in/tobiasdalaa/)  
 [https://twitter.com/Tobias_dala](https://twitter.com/Tobias_dala)  
 
@@ -190,6 +190,10 @@ High school student @ HTX Sukkertoppen
 [https://twitter.com/viggo_gaming](https://twitter.com/viggo_gaming)  
 
 ## Morten Lond (Morten Lond)
-IT Security Specialist @ Jyske Bank  
+IT Security Specialist @ Jyske Bank A/S  
 [https://twitter.com/MortenLond](https://twitter.com/MortenLond)  
 [https://www.linkedin.com/in/mortenlond/](https://www.linkedin.com/in/mortenlond/)  
+
+## Mathias Nordahl Rasmussen (Mathias Nordahl)
+Lead Security Analyst @ Dubex A/S  
+[https://www.linkedin.com/in/mathias-nordahl-rasmussen-a12b87b5/](https://www.linkedin.com/in/mathias-nordahl-rasmussen-a12b87b5/)  

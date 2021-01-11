@@ -158,25 +158,25 @@ PhD Student - Cyber Physical Systems and Security @ DTU
 [https://www.linkedin.com/in/niklas-reusch-761721133/](https://www.linkedin.com/in/niklas-reusch-761721133/)  
 
 ## Martin Boller (itisiboller)
-Cyber Security architect @ Systemically Important Financial Institution (SIFI)  
+Work: Cyber Security architect @ Systemically Important Financial Institution (SIFI)  
 [https://twitter.com/martinboller](https://twitter.com/martinboller)  
 [https://www.linkedin.com/in/martinboller/](https://www.linkedin.com/in/martinboller/)  
 
 ## Kent Adel Rasmussen (Stormvejr)
-IT-Engineer @ Bankdata  
+Work: IT-Engineer @ Bankdata  
 [https://www.linkedin.com/in/kent-adel-rasmussen-87140182/](https://www.linkedin.com/in/kent-adel-rasmussen-87140182/)  
 
 ## Claus Cramon Houmann (Claus Houmann)
-Cloud Security Coordinator @ European Commission  
+Work: Cloud Security Coordinator @ European Commission  
 [https://www.linkedin.com/in/claushoumann/](https://www.linkedin.com/in/claushoumann/)  
 [https://twitter.com/ClausHoumann](https://twitter.com/ClausHoumann)  
 
 ## Niklas Hansen (NinjaDK)
-Senior Software Developer @ Jyske Bank  
+Work: Senior Software Developer @ Jyske Bank  
 [https://www.linkedin.com/in/niklashansen/](https://www.linkedin.com/in/niklashansen/)  
 
 ## Ian Qvist (Genbox)
-Principal consultant and incident response techlead @ CSIS  
+Work: Principal consultant and incident response techlead @ CSIS  
 [https://twitter.com/IanQvist](https://twitter.com/IanQvist)  
 [https://www.linkedin.com/in/ian-qvist-55a664143/](https://www.linkedin.com/in/ian-qvist-55a664143/)  
 
@@ -190,10 +190,14 @@ High school student @ HTX Sukkertoppen
 [https://twitter.com/viggo_gaming](https://twitter.com/viggo_gaming)  
 
 ## Morten Lond (Morten Lond)
-IT Security Specialist @ Jyske Bank A/S  
+Work: IT Security Specialist @ Jyske Bank A/S  
 [https://twitter.com/MortenLond](https://twitter.com/MortenLond)  
 [https://www.linkedin.com/in/mortenlond/](https://www.linkedin.com/in/mortenlond/)  
 
 ## Mathias Nordahl Rasmussen (Mathias Nordahl)
-Lead Security Analyst @ Dubex A/S  
+Work: Lead Security Analyst @ Dubex A/S  
 [https://www.linkedin.com/in/mathias-nordahl-rasmussen-a12b87b5/](https://www.linkedin.com/in/mathias-nordahl-rasmussen-a12b87b5/)  
+
+## Jonas Smedegaard (Jonas Smedegaard)
+System Consultant @ netIP  
+[https://www.linkedin.com/in/jsmedegaard/](https://www.linkedin.com/in/jsmedegaard/)  

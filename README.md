@@ -200,5 +200,13 @@ Work: Lead Security Analyst @ Dubex A/S
 [https://twitter.com/nordahl_mathias](https://twitter.com/nordahl_mathias)  
 
 ## Jonas Smedegaard (Jonas Smedegaard)
-System Consultant @ netIP  
+Work: System Consultant @ netIP  
 [https://www.linkedin.com/in/jsmedegaard/](https://www.linkedin.com/in/jsmedegaard/)  
+
+## Niels Ulrich Matthiessen (Niels)
+Work: Sikkerhedsanalytiker @ NetDesign  
+[https://www.linkedin.com/in/niels-ulrich-matthiessen-964339146/](https://www.linkedin.com/in/niels-ulrich-matthiessen-964339146/)
+
+## Thor Kristiansen (Shiv4x6c)
+Work: Founder @ CPH:SEC  
+[https://www.linkedin.com/in/thorkristiansen/](https://www.linkedin.com/in/thorkristiansen/)  

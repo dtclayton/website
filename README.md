@@ -197,6 +197,7 @@ Work: IT Security Specialist @ Jyske Bank A/S
 ## Mathias Nordahl Rasmussen (Mathias Nordahl)
 Work: Lead Security Analyst @ Dubex A/S  
 [https://www.linkedin.com/in/mathias-nordahl-rasmussen-a12b87b5/](https://www.linkedin.com/in/mathias-nordahl-rasmussen-a12b87b5/)  
+[https://twitter.com/nordahl_mathias](https://twitter.com/nordahl_mathias)  
 
 ## Jonas Smedegaard (Jonas Smedegaard)
 System Consultant @ netIP  

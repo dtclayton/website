@@ -220,7 +220,7 @@ Work: Information Security Consultant @ Region Midtjylland
 [https://www.linkedin.com/in/rhoegsberg/](https://www.linkedin.com/in/rhoegsberg/)  
 
 ## Hamid Jabbari Ilkhechi
-Studying Bachelor's degree in IT-Security  
+IT-support @ Clavis  
 [https://www.linkedin.com/in/hamid-jabbari-ilkhechi-86b342104/](https://www.linkedin.com/in/hamid-jabbari-ilkhechi-86b342104/)  
 
 ## Alessandro Bruni

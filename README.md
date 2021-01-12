@@ -214,3 +214,7 @@ Work: Founder @ CPH:SEC
 ## Pelle Jensen (Pelle Jensen)
 Work: Sikkerhedsanalytiker @ NetDesign  
 [https://www.linkedin.com/in/pelle-jensen-b170a850/](https://www.linkedin.com/in/pelle-jensen-b170a850/)  
+
+## Rasmus Høg (Rasmus Høg)
+Work: Information Security Consultant @ Region Midtjylland  
+[https://www.linkedin.com/in/rhoegsberg/](https://www.linkedin.com/in/rhoegsberg/)  

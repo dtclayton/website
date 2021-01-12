@@ -222,3 +222,7 @@ Work: Information Security Consultant @ Region Midtjylland
 ## Hamid Jabbari Ilkhechi
 Studying Bachelor's degree in IT-Security  
 [https://www.linkedin.com/in/hamid-jabbari-ilkhechi-86b342104/](https://www.linkedin.com/in/hamid-jabbari-ilkhechi-86b342104/)  
+
+## Alessandro Bruni
+Work: Associate Professor @ IT-Universitetet i København  
+[https://www.linkedin.com/in/alessandrobruni/](https://www.linkedin.com/in/alessandrobruni/)  

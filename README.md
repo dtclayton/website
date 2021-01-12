@@ -219,10 +219,14 @@ Work: Sikkerhedsanalytiker @ NetDesign
 Work: Information Security Consultant @ Region Midtjylland  
 [https://www.linkedin.com/in/rhoegsberg/](https://www.linkedin.com/in/rhoegsberg/)  
 
-## Hamid Jabbari Ilkhechi
+## Hamid Jabbari Ilkhechi (Hamid Jabbari)
 Work: IT-support @ Clavis  
 [https://www.linkedin.com/in/hamid-jabbari-ilkhechi-86b342104/](https://www.linkedin.com/in/hamid-jabbari-ilkhechi-86b342104/)  
 
-## Alessandro Bruni
+## Alessandro Bruni (hoheinzollern)
 Work: Associate Professor @ IT-Universitetet i København  
 [https://www.linkedin.com/in/alessandrobruni/](https://www.linkedin.com/in/alessandrobruni/)  
+
+## Simon B. Laursen (Simon)
+Work: Senior Software Engineer @ Danske Bank  
+[https://www.linkedin.com/in/simlau/](https://www.linkedin.com/in/simlau/)  

@@ -149,7 +149,7 @@ Work: Cyber Security Analyst @ TDC Group
 [https://www.linkedin.com/in/dennisrand/](https://www.linkedin.com/in/dennisrand/)  
 
 ## Emil Stahl (emilstahl)
-Work: Sysadmin & Abuse @ team.blue Denmark  
+Work: Linux Systems Engineer & Abuse @ team.blue Denmark  
 [https://linkedin.com/in/emilstahl](https://linkedin.com/in/emilstahl)   
 [https://twitter.com/emilstahl](https://twitter.com/emilstahl)  
 

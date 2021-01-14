@@ -230,3 +230,7 @@ Work: Associate Professor @ IT-Universitetet i København
 ## Simon B. Laursen (Simon)
 Work: Senior Software Engineer @ Danske Bank  
 [https://www.linkedin.com/in/simlau/](https://www.linkedin.com/in/simlau/)  
+
+## Mitchell Impey
+Work: ICS Security Analyst @ Norlys  
+[https://www.linkedin.com/in/mitchellimpey/](https://www.linkedin.com/in/mitchellimpey/)  

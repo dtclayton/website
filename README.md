@@ -231,6 +231,11 @@ Work: Associate Professor @ IT-Universitetet i København
 Work: Senior Software Engineer @ Danske Bank  
 [https://www.linkedin.com/in/simlau/](https://www.linkedin.com/in/simlau/)  
 
-## Mitchell Impey
+## Mitchell Impey (dk-mitch)
 Work: ICS Security Analyst @ Norlys  
 [https://www.linkedin.com/in/mitchellimpey/](https://www.linkedin.com/in/mitchellimpey/)  
+
+## Magnus Jørgensen (Fixi)
+Work: Director @ FlexiNetwork   
+[https://www.linkedin.com/in/fixi/](https://www.linkedin.com/in/fixi/)  
+[https://twitter.com/FixiDK](https://twitter.com/FixiDK)  

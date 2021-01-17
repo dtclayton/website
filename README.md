@@ -244,3 +244,7 @@ Work: Director @ FlexiNetwork
 IT Security Student  
 [https://www.linkedin.com/in/lasse-moisen/](https://www.linkedin.com/in/lasse-moisen/)  
 [https://twitter.com/LasseMoisen](https://twitter.com/LasseMoisen)  
+
+## Heino Skjøtt (Erase)  
+Work: Network Service Architect @ JN Data  
+[https://www.linkedin.com/in/heinoskjoett/](https://www.linkedin.com/in/heinoskjoett/)  

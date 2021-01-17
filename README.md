@@ -248,3 +248,7 @@ IT Security Student
 ## Heino Skjøtt (Erase)  
 Work: Network Service Architect @ JN Data  
 [https://www.linkedin.com/in/heinoskjoett/](https://www.linkedin.com/in/heinoskjoett/)  
+
+## Mathias Kristensen (Mathias)
+Work: Cyber Security Analyst @ Spar Nord  
+[https://www.linkedin.com/in/mathias93kristensen/](https://www.linkedin.com/in/mathias93kristensen/)  

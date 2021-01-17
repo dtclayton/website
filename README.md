@@ -239,3 +239,7 @@ Work: ICS Security Analyst @ Norlys
 Work: Director @ FlexiNetwork   
 [https://www.linkedin.com/in/fixi/](https://www.linkedin.com/in/fixi/)  
 [https://twitter.com/FixiDK](https://twitter.com/FixiDK)  
+
+## Lasse Moisen (Lasse M. Moisen)  
+IT Security Student  
+[https://www.linkedin.com/in/lasse-moisen/](https://www.linkedin.com/in/lasse-moisen/)  

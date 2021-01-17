@@ -243,3 +243,4 @@ Work: Director @ FlexiNetwork
 ## Lasse Moisen (Lasse M. Moisen)  
 IT Security Student  
 [https://www.linkedin.com/in/lasse-moisen/](https://www.linkedin.com/in/lasse-moisen/)  
+[https://twitter.com/LasseMoisen](https://twitter.com/LasseMoisen)  

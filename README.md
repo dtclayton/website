@@ -252,3 +252,8 @@ Work: Network Service Architect @ JN Data
 ## Mathias Kristensen (Mathias)
 Work: Cyber Security Analyst @ Spar Nord  
 [https://www.linkedin.com/in/mathias93kristensen/](https://www.linkedin.com/in/mathias93kristensen/)  
+
+## Ronnie Salomonsen (r0ns3n)
+Work: Incident Response and Forensics Consultant @ Mandiant/FireEye  
+[https://www.linkedin.com/in/ronniesalomonsen/](https://www.linkedin.com/in/ronniesalomonsen/)  
+[https://twitter.com/r0ns3n](https://twitter.com/r0ns3n)  

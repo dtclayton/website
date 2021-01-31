@@ -257,3 +257,7 @@ Work: Cyber Security Analyst @ Spar Nord
 Work: Incident Response and Forensics Consultant @ Mandiant/FireEye  
 [https://www.linkedin.com/in/ronniesalomonsen/](https://www.linkedin.com/in/ronniesalomonsen/)  
 [https://twitter.com/r0ns3n](https://twitter.com/r0ns3n)  
+
+## Sebastian Fischer (SebFischer)
+MSc Student in Computer Science & Engineering  
+[https://www.linkedin.com/in/sebastian-fischer-47580a117/](https://www.linkedin.com/in/sebastian-fischer-47580a117/)  

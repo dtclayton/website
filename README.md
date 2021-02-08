@@ -265,3 +265,7 @@ MSc Student in Computer Science & Engineering
 ## Nangialy Nabi Zada (NanGi)
 Work: Senior Consultant @ KPMG Denmark  
 [https://www.linkedin.com/in/nangialy-nabi-zada/](https://www.linkedin.com/in/nangialy-nabi-zada/)  
+
+## Petrut Jianu (cezeka)   
+Work: Assistant System Administrator @ Københavns Universitet - University of Copenhagen  
+[https://www.linkedin.com/in/jianu-petrut/](https://www.linkedin.com/in/jianu-petrut/)  

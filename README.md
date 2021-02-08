@@ -261,3 +261,7 @@ Work: Incident Response and Forensics Consultant @ Mandiant/FireEye
 ## Sebastian Fischer (SebFischer)
 MSc Student in Computer Science & Engineering  
 [https://www.linkedin.com/in/sebastian-fischer-47580a117/](https://www.linkedin.com/in/sebastian-fischer-47580a117/)  
+
+## Nangialy Nabi Zada (NanGi)
+Work: Senior Consultant @ KPMG Denmark  
+[https://www.linkedin.com/in/nangialy-nabi-zada/](https://www.linkedin.com/in/nangialy-nabi-zada/)  

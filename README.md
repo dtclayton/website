@@ -269,3 +269,7 @@ Work: Senior Consultant @ KPMG Denmark
 ## Petrut Jianu (cezeka)   
 Work: Assistant System Administrator @ Københavns Universitet - University of Copenhagen  
 [https://www.linkedin.com/in/jianu-petrut/](https://www.linkedin.com/in/jianu-petrut/)  
+
+## Thomas Ljungberg Kristensen (tlkristensen)  
+Work: IT Security Architect @ Norlys  
+[https://www.linkedin.com/in/thomasljungbergkristensen](https://www.linkedin.com/in/thomasljungbergkristensen)  

@@ -273,3 +273,7 @@ Work: Assistant System Administrator @ Københavns Universitet - University of C
 ## Thomas Ljungberg Kristensen (tlkristensen)  
 Work: IT Security Architect @ Norlys  
 [https://www.linkedin.com/in/thomasljungbergkristensen](https://www.linkedin.com/in/thomasljungbergkristensen)  
+
+##	Nick Dalmose Jensen (Nick)  
+Work: Compliance and Security intern @ IT Relation | Security analyst student @ Erhvervsakademi Dania  
+[https://www.linkedin.com/in/nick-d-b86492190/](https://www.linkedin.com/in/nick-d-b86492190/)  

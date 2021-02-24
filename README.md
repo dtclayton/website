@@ -274,6 +274,11 @@ Work: Assistant System Administrator @ Københavns Universitet - University of C
 Work: IT Security Architect @ Norlys  
 [https://www.linkedin.com/in/thomasljungbergkristensen](https://www.linkedin.com/in/thomasljungbergkristensen)  
 
-##	Nick Dalmose Jensen (Nick)  
+## Nick Dalmose Jensen (Nick)  
 Work: Compliance and Security intern @ IT Relation | Security analyst student @ Erhvervsakademi Dania  
 [https://www.linkedin.com/in/nick-d-b86492190/](https://www.linkedin.com/in/nick-d-b86492190/)  
+
+## Josefine Ehlers Davidsen (Josefine)
+Work: Administrative officer in Office of It-security and Dataprotection @ National Agency for It & Learning, MSc psychology  
+[https://www.linkedin.com/in/josefineehlersdavidsen](https://www.linkedin.com/in/josefineehlersdavidsen)  
+[https://twitter.com/josedavidsen](https://twitter.com/josedavidsen)  

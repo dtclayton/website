@@ -278,7 +278,7 @@ Work: IT Security Architect @ Norlys
 Work: Compliance and Security intern @ IT Relation | Security analyst student @ Erhvervsakademi Dania  
 [https://www.linkedin.com/in/nick-d-b86492190/](https://www.linkedin.com/in/nick-d-b86492190/)  
 
-## Josefine Ehlers Davidsen (Josefine)
+## Josefine Ehlers Davidsen (Josefinn)
 Work: Administrative officer in Office of It-security and Dataprotection @ National Agency for It & Learning, MSc psychology  
 [https://www.linkedin.com/in/josefineehlersdavidsen](https://www.linkedin.com/in/josefineehlersdavidsen)  
 [https://twitter.com/josedavidsen](https://twitter.com/josedavidsen)  

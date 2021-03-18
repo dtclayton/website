@@ -282,3 +282,12 @@ Work: Compliance and Security intern @ IT Relation | Security analyst student @ 
 Work: Administrative officer in Office of It-security and Dataprotection @ National Agency for It & Learning, MSc psychology  
 [https://www.linkedin.com/in/josefineehlersdavidsen](https://www.linkedin.com/in/josefineehlersdavidsen)  
 [https://twitter.com/josedavidsen](https://twitter.com/josedavidsen)  
+
+## Ramal Safi (Rama0125)
+Work: Security Analyst @ Region Sjælland  
+[https://www.linkedin.com/in/ramal-safi/](https://www.linkedin.com/in/ramal-safi/)   
+
+## Emil Hørning (0xlimE)
+Work: IT Security Student  
+[https://www.linkedin.com/in/emil-h%C3%B8rning-8824641b4/](https://www.linkedin.com/in/emil-h%C3%B8rning-8824641b4/)  
+[https://twitter.com/0xlimE](https://twitter.com/0xlimE)  

@@ -76,7 +76,7 @@ Work: IT Security - Search Manager @ Cyber Security Agency
 [https://twitter.com/SonAndrada](https://twitter.com/SonAndrada)  
 
 ## Aslak Ransby (Aslak)
-Work: Cyber Security Specialist @ Eagle Shark Cyber Defence  
+Work: Security Test Lead @ Dubex    
 [https://www.linkedin.com/in/aslak-ransby-b3a70a175/](https://www.linkedin.com/in/aslak-ransby-b3a70a175/)  
 [https://twitter.com/aslakransby](https://twitter.com/aslakransby)  
 

@@ -291,3 +291,8 @@ Work: Security Analyst @ Region Sjælland
 Work: IT Security Student  
 [https://www.linkedin.com/in/emil-h%C3%B8rning-8824641b4/](https://www.linkedin.com/in/emil-h%C3%B8rning-8824641b4/)  
 [https://twitter.com/0xlimE](https://twitter.com/0xlimE)  
+
+## Lars Westergaard Birch (Dubs)
+Work: Security Consultant @ Dubex  
+[https://www.linkedin.com/in/larsbirch](https://www.linkedin.com/in/larsbirch)   
+[https://twitter.com/hacks4packs](https://twitter.com/hacks4packs)   

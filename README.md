@@ -296,3 +296,7 @@ Work: IT Security Student
 Work: Security Consultant @ Dubex  
 [https://www.linkedin.com/in/larsbirch](https://www.linkedin.com/in/larsbirch)   
 [https://twitter.com/hacks4packs](https://twitter.com/hacks4packs)   
+
+## Jay Christiansen (Andromedus)  
+Work: Principal Consultant @ FireEye  
+[https://www.linkedin.com/in/jaychristiansen/](https://www.linkedin.com/in/jaychristiansen/)     

@@ -40,6 +40,13 @@ Continued violations will result in being muted, kicked or banned (ban evasion i
       
 Any changes made to the Rules and CoC by the Community Board will be announced in #announcements-📢
 
+# Event Calendar
+Feel free to send a message or mail to one of the VSec admins or moderators to get your non-profit event registered in the event calendar. 
+
+| Date | Event | Topic | Community | Link |
+|------|-------|-------|-----------|------|
+|      |       |       |           |      |   |
+
 # Verified Vikings
 Want to become verified and get access to the closed channels?
 Send a proof containing your handle/nickname, name and current workplace to one of the moderators from either your LinkedIn or Twitter profile.

@@ -1,7 +1,5 @@
 # What is VSec?
-VSec is short for Viking Security and is a Danish InfoSec Community that are trying to "unify" the different local infosec groups in Denmark by providing a shared communication platform for each. The different sub-community crew's handle their own sub-channels on the community server.
-
-VSec is meant to be a community for the community by the community, therefor all the local crew members has the possibility to be part of the community board channel and control how the community is run/handled (CoC, guidelines, rules, events etc.).
+VSec is short for Viking Security and is a Danish Non-Profit InfoSec Community that are trying to "unify" the different local infosec groups in Denmark by providing a shared communication platform. VSec is meant to be a community for the community by the community, therefor all the local crew members has the possibility to be part of the community board channel and control how the community is run/handled (CoC, guidelines, rules, events etc.). The different sub-community crew's handle their own sub-channels on the community server.
 
 # Join our discord server
 Feel free to join our Discord server and remember to check out the #events channel for new local 
@@ -45,7 +43,7 @@ Feel free to send a message or mail to one of the VSec admins or moderators to g
 
 | Date | Event | Topic | Community | Link |
 |------|-------|-------|-----------|------|
-|      |       |       |           |      |   |
+|      |       |       |           |      | 
 
 # Verified Vikings
 Want to become verified and get access to the closed channels?

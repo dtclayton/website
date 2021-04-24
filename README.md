@@ -43,8 +43,8 @@ Feel free to send a message or mail to one of the VSec admins or moderators to g
 
 | Date | Event | Topic | Community | Link |
 |------|-------|-------|-----------|------|
-| 29/4 - 20.00 to 22.00  | NemID, Quantum Computers and the Threat to Security of Digital Signatures | Crypto | OWASP Copenhagen | https://www.meetup.com/OWASP-Copenhagen-Chapter/events/277670961/ | 
-| 6/5 - 19.00 to 21.00  | Chapter Worskhop and CTP - May - Online | CTF | OWASP Aarhus | https://www.meetup.com/OWASP-Aarhus-Chapter/events/277659233/ | 
+| 29/4 - 20.00 to 22.00  | NemID, Quantum Computers and the Threat to Security of Digital Signatures | Crypto | OWASP Copenhagen | [https://www.meetup.com/OWASP-Copenhagen-Chapter/events/277670961/](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/277670961/) | 
+| 6/5 - 19.00 to 21.00  | Chapter Worskhop and CTP - May - Online | CTF | OWASP Aarhus | [https://www.meetup.com/OWASP-Aarhus-Chapter/events/277659233/](https://www.meetup.com/OWASP-Aarhus-Chapter/events/277659233/) | 
 
 # Verified Vikings
 Want to become verified and get access to the closed channels?

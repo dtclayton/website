@@ -305,3 +305,7 @@ Work: Security Consultant @ Dubex
 ## Jay Christiansen (Andromedus)  
 Work: Principal Consultant @ FireEye  
 [https://www.linkedin.com/in/jaychristiansen/](https://www.linkedin.com/in/jaychristiansen/)     
+
+## Brian Munk Jensen (munkster)  
+Work: Linux Systems Engineer @ team.blue Denmark  
+[https://www.linkedin.com/in/brian-munk-jensen-953ab967/](https://www.linkedin.com/in/brian-munk-jensen-953ab967/)   

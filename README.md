@@ -100,7 +100,7 @@ Work: Security Specialist @ TDC Group
 [https://www.linkedin.com/in/jesper-kastoft-bertelsen-997707140/](https://www.linkedin.com/in/jesper-kastoft-bertelsen-997707140//)  
 
 ## Flemming Jacobsen (Batmule)
-Work: Technical Specialist - Security @ Maersk  
+Work: IT Security Consultant @ UnixPower.dk 
 [https://linkedin.com/in/flemmingjacobsen/](https://linkedin.com/in/flemmingjacobsen/)  
 [https://twitter.com/batmule_dk](https://twitter.com/batmule_dk)  
 

@@ -310,3 +310,7 @@ Work: Principal Consultant @ FireEye
 ## Brian Munk Jensen (munkster)  
 Work: Linux Systems Engineer @ team.blue Denmark  
 [https://www.linkedin.com/in/brian-munk-jensen-953ab967/](https://www.linkedin.com/in/brian-munk-jensen-953ab967/)   
+
+## Rasmus Sørensen (P_)  
+Work: SOC Analyst @ TDC  
+[https://www.linkedin.com/in/rasmus-s%C3%B8rensen-a5013214b/](https://www.linkedin.com/in/rasmus-s%C3%B8rensen-a5013214b/)   

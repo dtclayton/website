@@ -314,3 +314,7 @@ Work: Linux Systems Engineer @ team.blue Denmark
 ## Rasmus Sørensen (P_)  
 Work: SOC Analyst @ TDC  
 [https://www.linkedin.com/in/rasmus-s%C3%B8rensen-a5013214b/](https://www.linkedin.com/in/rasmus-s%C3%B8rensen-a5013214b/)   
+
+## Jonas Kunert (JonasK)   
+Computer Science Student   
+[https://www.linkedin.com/in/jonas-kunert-379b4414b/](https://www.linkedin.com/in/jonas-kunert-379b4414b/)   

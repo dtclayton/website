@@ -318,3 +318,7 @@ Work: SOC Analyst @ TDC
 ## Jonas Kunert (JonasK)   
 Computer Science Student   
 [https://www.linkedin.com/in/jonas-kunert-379b4414b/](https://www.linkedin.com/in/jonas-kunert-379b4414b/)   
+
+## Silvio Condric (sili - Silvio)  
+Work: Cyber Security Awareness @ Mindzeed  
+[https://www.linkedin.com/in/securitysili/](https://www.linkedin.com/in/securitysili/)   

@@ -321,3 +321,8 @@ Computer Science Student
 ## Silvio Condric (sili - Silvio)  
 Work: Cyber Security Awareness @ Mindzeed  
 [https://www.linkedin.com/in/securitysili/](https://www.linkedin.com/in/securitysili/)   
+
+## Rasmus Vestergaard (Zazh)  
+Work: Senior Cyber Security Engineer at Centrica Energy Trading  
+[https://www.linkedin.com/in/rasmusve/](https://www.linkedin.com/in/rasmusve/)   
+

@@ -312,7 +312,7 @@ Work: Linux Systems Engineer @ team.blue Denmark
 
 ## Rasmus Sørensen (P_)  
 Work: SOC Analyst @ TDC  
-[https://www.linkedin.com/in/rasmus-s%C3%B8rensen-a5013214b/](https://www.linkedin.com/in/rasmus-s%C3%B8rensen-a5013214b/)   
+[https://www.linkedin.com/in/rasmus-s%C3%B8rensen-a5013214b/](https://www.linkedin.com/in/rasmus-s%C3%B8rensen-a5013214b/)  
 
 ## Jonas Kunert (JonasK)   
 Computer Science Student   
@@ -326,3 +326,7 @@ Work: Cyber Security Awareness @ Mindzeed
 Work: Senior Cyber Security Engineer at Centrica Energy Trading  
 [https://www.linkedin.com/in/rasmusve/](https://www.linkedin.com/in/rasmusve/)   
 
+## Sia Møller (Sia)  
+Work: Senior IT Security Specialist at DSV - Global Transport and Logistics  
+[https://www.linkedin.com/in/siamoeller/](https://www.linkedin.com/in/siamoeller/)   
+[https://twitter.com/SiHELL22](https://twitter.com/SiHELL22)   

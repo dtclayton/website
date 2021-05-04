@@ -330,3 +330,10 @@ Work: Senior Cyber Security Engineer at Centrica Energy Trading
 Work: Senior IT Security Specialist at DSV - Global Transport and Logistics  
 [https://www.linkedin.com/in/siamoeller/](https://www.linkedin.com/in/siamoeller/)   
 [https://twitter.com/SiHELL22](https://twitter.com/SiHELL22)   
+
+## Rasmus Riis (RasRiis)   
+Work: Technical lead of Technical Quality Team at NC3, Denmark   
+[https://www.linkedin.com/in/rasmusriiskristensen/](https://www.linkedin.com/in/rasmusriiskristensen/)   
+[https://twitter.com/rasriis](https://twitter.com/rasriis)   
+
+

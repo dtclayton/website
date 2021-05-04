@@ -44,6 +44,7 @@ Feel free to send a message or mail to one of the VSec admins or moderators to g
 | Date | Event | Topic | Community | Link |
 |------|-------|-------|-----------|------|
 | 6/5 - 19.00 to 21.00  | Chapter Worskhop and CTP - May - Online | CTF | OWASP Aarhus | [https://www.meetup.com/OWASP-Aarhus-Chapter/events/277659233/](https://www.meetup.com/OWASP-Aarhus-Chapter/events/277659233/) | 
+| 20/5 - ? to ?  | How I hacked the largest bank in Norway using a 1-page paper form by [Per Thorsheim](https://twitter.com/thorsheim) + Community Talk with [Stu](https://twitter.com/cybersecstu) from the Many Hats Club | Security & Community | OWASP Copenhagen | [TBA](https://www.meetup.com/OWASP-Copenhagen-Chapter/) | 
 
 # Verified Vikings
 Want to become verified and get access to the closed channels?

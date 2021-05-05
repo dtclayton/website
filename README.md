@@ -337,4 +337,6 @@ Work: Technical lead of Technical Quality Team at NC3, Denmark
 [https://www.linkedin.com/in/rasmusriiskristensen/](https://www.linkedin.com/in/rasmusriiskristensen/)   
 [https://twitter.com/rasriis](https://twitter.com/rasriis)   
 
-
+## Shittal Shrestha (Shelly)   
+BA Student in IT and Communication   
+[https://www.linkedin.com/in/shittaldk/](https://www.linkedin.com/in/shittaldk/)   

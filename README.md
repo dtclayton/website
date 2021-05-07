@@ -340,3 +340,7 @@ Work: Technical lead of Technical Quality Team at NC3, Denmark
 ## Shittal Shrestha (Shelly)   
 BA Student in IT and Communication   
 [https://www.linkedin.com/in/shittaldk/](https://www.linkedin.com/in/shittaldk/)   
+
+## Lorena Ronquillo (LorenaR)   
+Work: Lecturer of IT Security at KEA - Copenhagen School of Design and Technology  
+[https://www.linkedin.com/in/lorena-ronquillo/](https://www.linkedin.com/in/lorena-ronquillo/)   

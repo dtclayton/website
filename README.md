@@ -344,3 +344,7 @@ BA Student in IT and Communication
 ## Lorena Ronquillo (LorenaR)   
 Work: Lecturer of IT Security at KEA - Copenhagen School of Design and Technology  
 [https://www.linkedin.com/in/lorena-ronquillo/](https://www.linkedin.com/in/lorena-ronquillo/)   
+
+## Frederik Bøgeskov Johnsen (Frederik Bøgeskov)   
+Work: Cyber Security Consultant @ CyberPilot.io
+[https://www.linkedin.com/in/frederikbogeskovjohnsen/](https://www.linkedin.com/in/frederikbogeskovjohnsen/)   

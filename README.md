@@ -347,3 +347,8 @@ Work: Lecturer of IT Security at KEA - Copenhagen School of Design and Technolog
 ## Frederik Bøgeskov Johnsen (Frederik Bøgeskov)   
 Work: Cyber Security Consultant @ CyberPilot.io  
 [https://www.linkedin.com/in/frederikbogeskovjohnsen/](https://www.linkedin.com/in/frederikbogeskovjohnsen/)   
+
+## Dénes Olivér Óvári (od8086)   
+Work: Security Software Developer and Architect @ CSIS Security Group  
+[https://www.linkedin.com/in/ovaridenes/](https://www.linkedin.com/in/ovaridenes/)   
+[https://twitter.com/0d8x86](https://twitter.com/0d8x86)   

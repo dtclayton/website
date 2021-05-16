@@ -60,11 +60,12 @@ Each project will need an initial approval from the VSec Community Board to be i
 
 - Projects must be related to Information Security and be relevant to either the VSec community members and/or general public.
 - Projects must be open source under the MIT license.
-- Projects are reviewed by the VSec community and might be discarded or deleted due to quality or being unmaintained.
+- Projects are reviewed by the VSec community and might be discarded or deleted (with notice) due to quality or being unmaintained.
 
 # Website
 
-The website is hosted on GitHub Pages making it easy to contribute to the site by making simple pull request to any page. All text on the site is written in markdown and generated into a static site by [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll). Nameservers are currently being handle by gratisdns.dk with simple A and TXT/SPF records.
+The website is hosted on GitHub Pages making it easy to contribute to the site by making simple pull request to any page/post. All text on the site is written in markdown and generated into a static site by [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).  
+Nameservers are currently being handle by gratisdns.dk with simple A and TXT/SPF records.  
 
 ## Styling
 

@@ -64,7 +64,8 @@ Each project will need an initial approval from the VSec Community Board to be i
 
 # Website
 
-The website is hosted on GitHub Pages making it easy to contribute to the site by making simple pull request to any page/post. All text on the site is written in markdown and generated into a static site by [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).  
+The website is hosted on GitHub Pages making it easy to contribute to the site by making simple pull request to any page/post.  
+All text on the site is written in markdown and generated into a static site by [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).  
 Nameservers are currently being handle by gratisdns.dk with simple A and TXT/SPF records.  
 
 ## Styling

@@ -39,7 +39,8 @@ the cutoff point for the post summary that's displayed on the
 ## Guidelines to keep in mind when publishing a blog
 
 - Posts must be related to Information Security and be relevant to either the VSec members or general public.
-- Posts that include material from and/or links to commercial parties must be limited as much as possible. Please consider open source alternatives.
+- Posts that include material from and/or links to commercial parties must be limited as much as possible.  
+  Please consider open source alternatives.
 - Posts are reviewed by the VSec Community Board and might be discarded.  
   Remember quality content is more valuable than quantity. 
 - Make sure the date in the filename is today's date + name (1999-12-31-topic.md).

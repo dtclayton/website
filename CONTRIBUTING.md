@@ -53,7 +53,7 @@ Each project will need an initial approval from the VSec Community Board to be i
 
 ## Issues and Pull Requests
 
-- If you're not sure about adding something, [open an issue](https://github.com/vsec/website/issues/new) to discuss it.
+- If you're not sure about adding something, [open an issue](https://github.com/Viking-Security/website/issues/new) to discuss it.
 - Feel free to open a Pull Request early so that a discussion can be had as changes are developed.
 
 ## Guidelines to keep in mind when publishing a community project
@@ -80,4 +80,4 @@ Join the Discord server to get connected to hundreds of security aware people
   - Make new friends, working in the same area.
   - Find amazing projects to contribute to, or help others with their issues
   
-If any of this information confusing, incorrect, or incomplete, feel free to reach out on discord or [open an issue](https://github.com/vsec/website/issues/new) for help.
+If any of this information confusing, incorrect, or incomplete, feel free to reach out on discord or [open an issue](https://github.com/Viking-Security/website/issues/new) for help.

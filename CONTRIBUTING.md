@@ -11,6 +11,7 @@ These are just guidelines, not rules, so use your best judgment and feel free to
   - [Blog](#blog)
   - [Community Projects](#community-projects)
   - [Website](#website)
+  - [Events](#events)
  
 # Blog
 

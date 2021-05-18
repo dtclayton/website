@@ -43,7 +43,7 @@ Feel free to send a message or mail to one of the VSec admins or moderators to g
 
 | Date | Event | Topic | Community | Link |
 |------|-------|-------|-----------|------|
-| 20/5 - ? to ?  | How I hacked the largest bank in Norway using a 1-page paper form by [Per Thorsheim](https://twitter.com/thorsheim) + Community Talk with [Stu](https://twitter.com/cybersecstu) from the Many Hats Club | Security & Community | OWASP Copenhagen | [TBA](https://www.meetup.com/OWASP-Copenhagen-Chapter/) | 
+| 20/5 - 20.00 to 21.30  | How I hacked the largest bank in Norway using a 1-page paper form by [Per Thorsheim](https://twitter.com/thorsheim) + Community Talk with [Stu](https://twitter.com/cybersecstu) from the Many Hats Club | Security & Community | OWASP Copenhagen | [Link](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/277996588/) | 
 
 # Verified Vikings
 Want to become verified and get access to the closed channels?

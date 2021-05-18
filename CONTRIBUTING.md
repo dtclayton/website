@@ -80,7 +80,7 @@ Want to do a online non-profit event on the VSec Discord server and get the supp
 
 - Events must be related to Information Security and be relevant to either the VSec community members and/or general public.
 - Only non-profit events are allowed.
-- Use only royalty free music and graphics that are not under copyright.
+- Only use royalty free music and graphics/overlays that are not under copyright.
 
 ## Need Help?
 ### [Join](https://discord.gg/H6uTh7m) The Discord Server!

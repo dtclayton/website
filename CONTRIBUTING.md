@@ -68,11 +68,18 @@ The website is hosted on GitHub Pages making it easy to contribute to the site b
 All text on the site is written in markdown and generated into a static site by [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).  
 Nameservers are currently being handle by gratisdns.dk with simple A and TXT/SPF records.  
 
-## Styling
-
 Stylesheets are all stored in the `/styles` directory.
-
 The styles are based on [Primer](https://github.com/primer/primer-css), the CSS toolkit that powers GitHub's front-end design.
+
+# Events
+
+Want to do a online non-profit event on the VSec Discord server and get the support of the growing Danish InfoSec community, feel free to reach out to @kbodeholt on Discord. As an option we can also help provide a even more professional setup by live re-streaming the event on other streaming services.
+
+## Guidelines to keep in mind when creating an online InfoSec Event
+
+- Events must be related to Information Security and be relevant to either the VSec community members and/or general public.
+- Only non-profit events are allowed.
+- Use only royalty free music and graphics that are not under copyright.
 
 ## Need Help?
 ### [Join](https://discord.gg/H6uTh7m) The Discord Server!

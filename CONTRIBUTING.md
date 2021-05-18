@@ -39,7 +39,8 @@ the cutoff point for the post summary that's displayed on the
 ## Guidelines to keep in mind when publishing a blog
 
 - Posts must be related to Information Security and be relevant to either the VSec members or general public.
-- Posts that include material from and/or links to commercial parties must be limited as much as possible. Please consider open source alternatives.
+- Posts that include material from and/or links to commercial parties must be limited as much as possible.  
+  Please consider open source alternatives.
 - Posts are reviewed by the VSec Community Board and might be discarded.  
   Remember quality content is more valuable than quantity. 
 - Make sure the date in the filename is today's date + name (1999-12-31-topic.md).
@@ -52,18 +53,20 @@ Each project will need an initial approval from the VSec Community Board to be i
 
 ## Issues and Pull Requests
 
-- If you're not sure about adding something, [open an issue](https://github.com/vsec/website/issues/new) to discuss it.
+- If you're not sure about adding something, [open an issue](https://github.com/Viking-Security/website/issues/new) to discuss it.
 - Feel free to open a Pull Request early so that a discussion can be had as changes are developed.
 
 ## Guidelines to keep in mind when publishing a community project
 
 - Projects must be related to Information Security and be relevant to either the VSec community members and/or general public.
 - Projects must be open source under the MIT license.
-- Projects are reviewed by the VSec community and might be discarded or deleted due to quality or being unmaintained.
+- Projects are reviewed by the VSec community and might be discarded or deleted (with notice) due to quality or being unmaintained.
 
 # Website
 
-The website is hosted on GitHub Pages making it easy to contribute to the site by making simple pull request to any page. All text on the site is written in markdown and generated into a static site by [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll). Nameservers are currently being handle by gratisdns.dk with simple A and TXT/SPF records.
+The website is hosted on GitHub Pages making it easy to contribute to the site by making simple pull request to any page/post.  
+All text on the site is written in markdown and generated into a static site by [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).  
+Nameservers are currently being handle by gratisdns.dk with simple A and TXT/SPF records.  
 
 ## Styling
 
@@ -78,4 +81,4 @@ Join the Discord server to get connected to hundreds of security aware people
   - Make new friends, working in the same area.
   - Find amazing projects to contribute to, or help others with their issues
   
-If any of this information confusing, incorrect, or incomplete, feel free to reach out on discord or [open an issue](https://github.com/vsec/website/issues/new) for help.
+If any of this information confusing, incorrect, or incomplete, feel free to reach out on discord or [open an issue](https://github.com/Viking-Security/website/issues/new) for help.

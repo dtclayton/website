@@ -356,3 +356,7 @@ Work: Security Software Developer and Architect @ CSIS Security Group
 ## Babak Bandpey (Babak)   
 IT Security Student @ KEA  
 [https://www.linkedin.com/in/babak-bandpey-a18797140/](https://www.linkedin.com/in/babak-bandpey-a18797140/)  
+
+## Henrik Larsson (Henrik Larsson)   
+Work: Experienced IT Security Practitioner & Technical Sales Engineer @ Palo Alto Networks
+[hhttps://www.linkedin.com/in/henriklarsson/](https://www.linkedin.com/in/henriklarsson/)  

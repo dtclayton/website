@@ -359,4 +359,8 @@ IT Security Student @ KEA
 
 ## Henrik Larsson (Henrik Larsson)   
 Work: Experienced IT Security Practitioner & Technical Sales Engineer @ Palo Alto Networks
-[hhttps://www.linkedin.com/in/henriklarsson/](https://www.linkedin.com/in/henriklarsson/)  
+[https://www.linkedin.com/in/henriklarsson/](https://www.linkedin.com/in/henriklarsson/)  
+
+## Frederik Leed (Psynoz)   
+Work: IT-arkitekt @ Nykredit
+[https://www.linkedin.com/in/frederikleed/](https://www.linkedin.com/in/frederikleed/)  

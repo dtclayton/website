@@ -364,3 +364,7 @@ Work: Experienced IT Security Practitioner & Technical Sales Engineer @ Palo Alt
 ## Frederik Leed (Psynoz)   
 Work: IT-arkitekt @ Nykredit
 [https://www.linkedin.com/in/frederikleed/](https://www.linkedin.com/in/frederikleed/)  
+
+## Michael Borchmann (homemicky)  
+Work: IT Specialist @ Region Midtjylland & Fagkoordinator for Operationel Sikkerhed  
+[https://www.linkedin.com/in/michael-borchmann-0918bb11/](https://www.linkedin.com/in/michael-borchmann-0918bb11/)  

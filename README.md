@@ -368,3 +368,7 @@ Work: IT-arkitekt @ Nykredit
 ## Michael Borchmann (homemicky)  
 Work: IT Specialist @ Region Midtjylland & Fagkoordinator for Operationel Sikkerhed  
 [https://www.linkedin.com/in/michael-borchmann-0918bb11/](https://www.linkedin.com/in/michael-borchmann-0918bb11/)  
+
+## Martin Nielsen (MNI)  
+Work: Systemkonsulent @ netIP  
+[https://www.linkedin.com/in/martin-nielsen-4916b286/](https://www.linkedin.com/in/martin-nielsen-4916b286/)  
